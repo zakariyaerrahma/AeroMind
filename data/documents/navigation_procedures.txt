@@ -1,0 +1,28 @@
+AVIATION SIMULATION - NAVIGATION PROCEDURES
+
+Document ID: NAV-001
+
+Purpose:
+This document contains simulated navigation procedures.
+
+Normal Navigation:
+
+The aircraft uses the simulated navigation system to maintain its planned route.
+
+Degraded Navigation:
+
+When navigation becomes degraded:
+
+1. Identify the navigation status.
+
+2. Check the current simulated position.
+
+3. Review the planned route.
+
+4. Check available navigation alternatives.
+
+5. Record the navigation condition.
+
+Important:
+These procedures are part of the AeroMind simulation environment.
+They are not real-world flight instructions.

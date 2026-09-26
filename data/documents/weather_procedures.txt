@@ -1,0 +1,23 @@
+AVIATION SIMULATION - WEATHER PROCEDURES
+
+Document ID: WEATHER-001
+
+Purpose:
+This document contains simulated procedures for handling severe weather conditions in the AeroMind training environment.
+
+Procedure:
+
+1. Monitor the current weather conditions continuously.
+
+2. Identify whether severe weather is located near the planned route.
+
+3. Review available alternative routes.
+
+4. Check the estimated fuel impact of any route modification.
+
+5. Maintain communication with the simulated control center when communication is available.
+
+6. Update the flight situation when weather conditions change.
+
+Important:
+These procedures are for simulation and educational purposes only.

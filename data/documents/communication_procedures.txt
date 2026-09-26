@@ -1,0 +1,35 @@
+AVIATION SIMULATION - COMMUNICATION PROCEDURES
+
+Document ID: COMM-001
+
+Purpose:
+This document contains simulated communication procedures.
+
+Normal Communication:
+
+When communication is normal, the aircraft can exchange information with the simulated control center.
+
+Degraded Communication:
+
+When communication becomes degraded:
+
+1. Monitor communication status.
+
+2. Attempt to restore the communication channel.
+
+3. Record the communication status in the flight situation.
+
+4. Consult the relevant simulated contingency procedure.
+
+Lost Communication:
+
+When communication is lost:
+
+1. Record the event.
+
+2. Check the available simulated contingency procedures.
+
+3. Continue monitoring the communication system.
+
+Important:
+These procedures are simulated and are not intended for real-world aviation operations.
